@@ -13,8 +13,6 @@ Let's get object-oriented in JavaScript-land!
 
 Complete this challenge from the Mod1 final assessment, but this time using JavaScript!
 
-# T. D. D.
-
 ### Iteration 1: Pantry Stocking
 
 Build a simple Pantry-tracking program that can store a list of ingredients and available
