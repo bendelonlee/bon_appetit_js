@@ -53,6 +53,6 @@ describe("Recipe", () => {
         expect(recipe.amountRequired("cheese")).to.equal(10)
       })
     })
+
   })
 })
-
